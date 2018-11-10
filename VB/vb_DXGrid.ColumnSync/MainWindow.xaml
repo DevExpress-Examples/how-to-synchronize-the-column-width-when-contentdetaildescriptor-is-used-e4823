@@ -1,4 +1,4 @@
-﻿<Window Height="666" 
+<Window Height="666" 
 		Title="MainWindow" 
 		Width="617" 
 		x:Class="vb_DXGrid.ColumnSync.MainWindow" 
