@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DetailSyncBehavior.cs](./CS/DXGrid.ColumnSync/DetailSyncBehavior.cs) (VB: [DetailSyncBehavior.vb](./VB/vb_DXGrid.ColumnSync/DetailSyncBehavior.vb))
+* [MainWindow.xaml](./CS/DXGrid.ColumnSync/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/vb_DXGrid.ColumnSync/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXGrid.ColumnSync/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/vb_DXGrid.ColumnSync/MainWindow.xaml))
+* [ViewModel.cs](./CS/DXGrid.ColumnSync/ViewModel.cs) (VB: [ViewModel.vb](./VB/vb_DXGrid.ColumnSync/ViewModel.vb))
+<!-- default file list end -->
 # How to synchronize the column width when ContentDetailDescriptor is used
 
 
