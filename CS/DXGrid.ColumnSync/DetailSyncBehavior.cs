@@ -1,17 +1,16 @@
-﻿using System;
+﻿using DevExpress.Mvvm.UI.Interactivity;
+using DevExpress.Utils;
+using DevExpress.Xpf.Core.Native;
+using DevExpress.Xpf.Grid;
+using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Globalization;
-using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
-using System.Windows.Interactivity;
 using System.Windows.Threading;
-using DevExpress.Utils;
-using DevExpress.Xpf.Core.Native;
-using DevExpress.Xpf.Grid;
 
 namespace DXGrid.ColumnSync {
     public class DetailSyncBehavior : Behavior<GridControl> {
